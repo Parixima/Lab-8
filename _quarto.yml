@@ -1,0 +1,59 @@
+# This file controls the settings for your Quarto template from www.marvinschmitt.com
+
+# website settings
+website:
+  title: "Parishma Guttoo"                                # Your name
+  description: "The physician journey to research"   # A brief slogan (optional)
+  image: img/my_image.jpg
+  favicon: img/favicon.jpg
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    logo: /img/healchildren.png
+    
+    # your sub-pages
+    left:
+      - text: "Education"
+        href: education/index.qmd
+      - text: "Experiences"
+        href: experiences/index.qmd
+      - text: "Projects"
+        href: projects/index.qmd
+      - text: "Publications"
+        href: publications/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
+      - text: "Blog"
+        href: blog/index.qmd
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+  
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true

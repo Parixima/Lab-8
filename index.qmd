@@ -1,0 +1,17 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+---
+
+::: {style="margin: 30px; text-align: center;"}
+:::
+
+# Welcome to my website!
+
+Originally from the small island country, of Mauritius, I am dedicated to making a difference in the lives of children with cancer. Starting my professional journey as a general physician in my home country, I witnessed the resilience of young patients with cancer and the challenges they and their families faced. While interacting with these families, I understood that even though Mauritius has a free healthcare system, it did not imply that the health services were utilized equally by different communities, and this drove me to be committed to working on addressing disparities in health service utilization across different communities. Driven by a deep-seated motivation to understand the complexities of health services and a desire to contribute to medical knowledge, I engaged fervently in research. My research interests focus lies in unraveling the complexities of childhood cancers, exploring innovative therapies, improving diagnostic methods, and application of the multidisciplinary approach to health disparities. Through my endeavors, I seek to advance the understanding of pediatric cancers but also strive to bring tangible improvements to the treatment and care of the youngest patients.
+
+Please feel free to [contact me](mailto:mailto:pxg363@case.edu) if you have any questions or would like to discuss potential projects.
+
+

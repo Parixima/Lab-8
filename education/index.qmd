@@ -1,0 +1,32 @@
+
+![](education.jpg)
+
+**Case Western Reserve University [Cleveland, OH]**
+
+Ph.D. in Clinical and Translational Sciences
+
+July 2023 - Present
+
+**Kent State University [Kent, OH]**
+
+MPH Epidemiology
+
+**University of the West of England [Bristol, United Kingdom]**
+
+MSc Public Health
+
+**Wuhan University [Wuhan, China]**
+
+Bachelor in medicine Bachelor in Surgery (MBBS)
+
+::: {layout-ncol=2}
+
+![](gandalf_image_1.jpeg)
+
+![](gandalf_image_2.jpg)
+
+![](gandalf_image_3.png)
+
+![](gandalf_image_4.png)
+
+:::
